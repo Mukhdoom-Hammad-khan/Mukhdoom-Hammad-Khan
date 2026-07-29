@@ -2,6 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Hammad!%20&animation=fadeIn&type=waving&color=gradient&height=180&fontSize=40"/>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mukhdoom-Hammad-Khan/Mukhdoom-Hammad-Khan/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mukhdoom-Hammad-Khan/Mukhdoom-Hammad-Khan/main/light.svg">
+  <img alt="Mukhdoom Hammad Khan" src="https://raw.githubusercontent.com/Mukhdoom-Hammad-Khan/Mukhdoom-Hammad-Khan/main/light.svg">
+</picture>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Gmail-hammadahmedopx%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   <a href="https://www.linkedin.com/in/mukhdoom-hammad-khan-160a2b333/">
