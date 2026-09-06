@@ -86,10 +86,8 @@ Fun Facts  :
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukhdoom-Hammad-khan&theme=react-dark&hide_border=true&area=true"/>
+  <img src="https://ghchart.xqsit94.in/dark:default/Mukhdoom-Hammad-khan" alt="GitHub Contributions"/>
 </p>
-
----
 
 
 ## Learning Roadmap
