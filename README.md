@@ -83,13 +83,6 @@ Fun Facts  :
 
 ---
 
-## Contribution Activity
-
-<p align="center">
-  <img src="https://ghchart.xqsit94.in/dark:default/Mukhdoom-Hammad-khan" alt="GitHub Contributions"/>
-</p>
-
-
 ## Learning Roadmap
 
 <div align="center">
